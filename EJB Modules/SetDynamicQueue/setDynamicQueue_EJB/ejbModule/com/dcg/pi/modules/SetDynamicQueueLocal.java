@@ -1,4 +1,4 @@
-package com.hayat.module;
+package com.dcg.pi.modules;
 
 import javax.ejb.Local;
 
